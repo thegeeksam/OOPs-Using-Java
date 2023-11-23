@@ -1,14 +1,6 @@
 # OOPs-Using-Java
 "R19CS203 - OOPs Using JAVA" Course Example programs
 
-// This is a README file for the OOPs-Using-Java repository
-// This repository contains some examples of Object Oriented Programming concepts in Java
-// The concepts covered are classes, objects, inheritance, polymorphism, abstraction and encapsulation
-// Each concept has its own folder with a README file explaining the code and the output
-// To run the code, you need to have Java installed on your system and a Java IDE of your choice
-// You can also use an online Java compiler like https://www.jdoodle.com/online-java-compiler/
-// Have fun learning OOPs with Java!
-
 Welcome to the OOPs-Using-Java repository, where you can learn the basics of object-oriented programming in Java with some hilarious examples and exercises. This repo is designed for beginners who want to have fun while learning to code with one of the world's most popular and versatile languages. Here are some of the topics covered in this repo:
 - Classes and objects
 - Inheritance and polymorphism
